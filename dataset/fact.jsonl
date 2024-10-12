@@ -1,0 +1,153 @@
+{'task_id': 1, 'statement': 'The Earth revolves around the Sun in approximately 365.25 days.'}
+{'task_id': 2, 'statement': 'Water boils at 100°C at sea level.'}
+{'task_id': 3, 'statement': 'A standard piano has 88 keys.'}
+{'task_id': 4, 'statement': 'The Eiffel Tower is located in Paris, France.'}
+{'task_id': 5, 'statement': 'Sharks are a type of cartilaginous fish.'}
+{'task_id': 6, 'statement': 'The speed of light in a vacuum is about 299,792 kilometers per second.'}
+{'task_id': 7, 'statement': 'Humans have 206 bones in their adult body.'}
+{'task_id': 8, 'statement': 'The Pacific Ocean is the largest ocean on Earth.'}
+{'task_id': 9, 'statement': 'The Amazon Rainforest is known as the "lungs of the Earth."'}
+{'task_id': 10, 'statement': 'The atomic number of carbon is 6.'}
+{'task_id': 11, 'statement': 'Newton’s third law states that for every action, there is an equal and opposite reaction.'}
+{'task_id': 12, 'statement': 'The Great Wall of China stretches over 13,000 miles.'}
+{'task_id': 13, 'statement': 'The heart pumps blood throughout the body via arteries and veins.'}
+{'task_id': 14, 'statement': 'Gold is a good conductor of electricity.'}
+{'task_id': 15, 'statement': 'An octopus has three hearts.'}
+{'task_id': 16, 'statement': 'The first law of thermodynamics states that energy cannot be created or destroyed.'}
+{'task_id': 17, 'statement': 'Bananas are rich in potassium.'}
+{'task_id': 18, 'statement': 'The moon is about 384,400 kilometers from Earth on average.'}
+{'task_id': 19, 'statement': 'Cats have retractable claws.'}
+{'task_id': 20, 'statement': 'The human brain contains approximately 86 billion neurons.'}
+{'task_id': 21, 'statement': 'Glass is an amorphous solid.'}
+{'task_id': 22, 'statement': 'Birds are the only animals with feathers.'}
+{'task_id': 23, 'statement': 'The tallest mountain on Earth is Mount Everest.'}
+{'task_id': 24, 'statement': 'A year on Mercury is just 88 Earth days.'}
+{'task_id': 25, 'statement': 'The longest river in the world is the Nile River.'}
+{'task_id': 26, 'statement': 'The human eye can distinguish about 10 million different colors.'}
+{'task_id': 27, 'statement': 'Dolphins are highly intelligent marine mammals.'}
+{'task_id': 28, 'statement': 'The Earth’s atmosphere is composed of 78% nitrogen.'}
+{'task_id': 29, 'statement': 'The North Pole is covered by sea ice, while the South Pole is located on a landmass.'}
+{'task_id': 30, 'statement': 'DNA stands for Deoxyribonucleic Acid.'}
+{'task_id': 31, 'statement': 'The Richter scale measures the magnitude of earthquakes.'}
+{'task_id': 32, 'statement': 'Koalas sleep up to 20 hours a day.'}
+{'task_id': 33, 'statement': 'The internet was invented in the 1960s.'}
+{'task_id': 34, 'statement': 'Honey never spoils; archaeologists have found pots of honey over 3,000 years old.'}
+{'task_id': 35, 'statement': 'Lightning is hotter than the surface of the Sun.'}
+{'task_id': 36, 'statement': 'Humans share about 98% of their DNA with chimpanzees.'}
+{'task_id': 37, 'statement': 'The Milky Way is the galaxy that contains our solar system.'}
+{'task_id': 38, 'statement': 'Sound travels faster in water than in air.'}
+{'task_id': 39, 'statement': 'The giraffe is the tallest land animal.'}
+{'task_id': 40, 'statement': 'Tomatoes are botanically classified as fruits.'}
+{'task_id': 41, 'statement': "Oxygen makes up about 21% of the Earth's atmosphere."}
+{'task_id': 42, 'statement': 'The fastest land animal is the cheetah.'}
+{'task_id': 43, 'statement': 'The smallest unit of life is the cell.'}
+{'task_id': 44, 'statement': 'A leap year occurs every four years.'}
+{'task_id': 45, 'statement': 'Venus is the hottest planet in the solar system.'}
+{'task_id': 46, 'statement': 'Penguins are flightless birds.'}
+{'task_id': 47, 'statement': 'The first successful airplane flight was made by the Wright brothers in 1903.'}
+{'task_id': 48, 'statement': 'The human body is about 60% water.'}
+{'task_id': 49, 'statement': 'The element helium is lighter than air.'}
+{'task_id': 50, 'statement': 'The International Space Station orbits the Earth about 16 times per day.'}
+{'task_id': 51, 'statement': 'The only continent with no permanent residents is Antarctica.'}
+{'task_id': 52, 'statement': 'Bees communicate with each other through a series of dances.'}
+{'task_id': 53, 'statement': 'The platypus is one of the few mammals that lay eggs.'}
+{'task_id': 54, 'statement': 'Albert Einstein developed the theory of relativity.'}
+{'task_id': 55, 'statement': 'The largest desert in the world is the Sahara Desert.'}
+{'task_id': 56, 'statement': 'Black holes have gravitational pulls so strong that not even light can escape.'}
+{'task_id': 57, 'statement': 'The capital city of Japan is Tokyo.'}
+{'task_id': 58, 'statement': 'There are eight planets in the solar system.'}
+{'task_id': 59, 'statement': 'The Earth’s core is mostly made of iron and nickel.'}
+{'task_id': 60, 'statement': 'Mammals are warm-blooded vertebrates.'}
+{'task_id': 61, 'statement': 'Jupiter is the largest planet in the solar system.'}
+{'task_id': 62, 'statement': 'The Great Barrier Reef is the largest coral reef system in the world.'}
+{'task_id': 63, 'statement': 'Peanuts are technically legumes, not nuts.'}
+{'task_id': 64, 'statement': 'The speed of sound is approximately 343 meters per second in air at room temperature.'}
+{'task_id': 65, 'statement': 'Humans have 32 teeth in their adult life.'}
+{'task_id': 66, 'statement': 'The Atlantic Ocean separates the Americas from Europe and Africa.'}
+{'task_id': 67, 'statement': 'The Pyramids of Giza are one of the Seven Wonders of the Ancient World.'}
+{'task_id': 68, 'statement': 'The lifespan of a common housefly is around 28 days.'}
+{'task_id': 69, 'statement': 'Venus rotates in the opposite direction to most planets in the solar system.'}
+{'task_id': 70, 'statement': 'A blue whale’s heart can weigh as much as a car.'}
+{'task_id': 71, 'statement': 'Elephants are the largest land animals.'}
+{'task_id': 72, 'statement': 'The process by which plants make their food is called photosynthesis.'}
+{'task_id': 73, 'statement': 'The official language of Brazil is Portuguese.'}
+{'task_id': 74, 'statement': 'The human skeleton is divided into two parts: the axial skeleton and the appendicular skeleton.'}
+{'task_id': 75, 'statement': 'There are 12 months in a year.'}
+{'task_id': 76, 'statement': 'Bats are the only mammals capable of sustained flight.'}
+{'task_id': 77, 'statement': 'Lightning strikes the Earth about 100 times per second.'}
+{'task_id': 78, 'statement': 'The Mona Lisa is housed in the Louvre Museum in Paris.'}
+{'task_id': 79, 'statement': 'Polar bears have black skin under their white fur.'}
+{'task_id': 80, 'statement': 'The closest star to Earth is the Sun.'}
+{'task_id': 81, 'statement': 'The kangaroo is native to Australia.'}
+{'task_id': 82, 'statement': 'The chemical symbol for gold is Au.'}
+{'task_id': 83, 'statement': 'A light-year is the distance light travels in one year.'}
+{'task_id': 84, 'statement': 'The tallest building in the world is the Burj Khalifa in Dubai.'}
+{'task_id': 85, 'statement': 'The human body has four blood types: A, B, AB, and O.'}
+{'task_id': 86, 'statement': 'The largest mammal in the ocean is the blue whale.'}
+{'task_id': 87, 'statement': 'The Nobel Prize was named after Alfred Nobel, the inventor of dynamite.'}
+{'task_id': 88, 'statement': 'The currency of the United Kingdom is the pound sterling.'}
+{'task_id': 89, 'statement': 'A rainbow is caused by the refraction and reflection of light in water droplets.'}
+{'task_id': 90, 'statement': 'The Pacific Ring of Fire is a major area in the basin of the Pacific Ocean where many earthquakes and volcanic eruptions occur.'}
+{'task_id': 91, 'statement': 'The Statue of Liberty was a gift from France to the United States.'}
+{'task_id': 92, 'statement': 'Water is made up of two hydrogen atoms and one oxygen atom.'}
+{'task_id': 93, 'statement': 'Butterflies taste with their feet.'}
+{'task_id': 94, 'statement': 'The capital of Italy is Rome.'}
+{'task_id': 95, 'statement': 'The Arctic Ocean is the smallest ocean.'}
+{'task_id': 96, 'statement': 'The primary ingredient in glass is sand.'}
+{'task_id': 97, 'statement': 'The Andes is the longest mountain range in the world.'}
+{'task_id': 98, 'statement': 'The hardest natural substance on Earth is diamond.'}
+{'task_id': 99, 'statement': 'The human ear has three main parts: the outer ear, middle ear, and inner ear.'}
+{'task_id': 100, 'statement': 'The planet Saturn has the most extensive ring system in the solar system.'}
+{'task_id': 101, 'statement': 'The first Olympic Games were held in ancient Greece in 776 BC.'}
+{'task_id': 102, 'statement': 'Lemurs are native to Madagascar.'}
+{'task_id': 103, 'statement': 'The Great Sphinx is located near the Pyramids of Giza.'}
+{'task_id': 104, 'statement': 'Sound waves are a type of mechanical wave.'}
+{'task_id': 105, 'statement': 'The element with the atomic number 1 is hydrogen.'}
+{'task_id': 106, 'statement': 'Humans are classified as Homo sapiens.'}
+{'task_id': 107, 'statement': 'The national sport of Canada is lacrosse.'}
+{'task_id': 108, 'statement': "Antarctica holds 70% of the Earth's fresh water."}
+{'task_id': 109, 'statement': 'The first man to walk on the moon was Neil Armstrong.'}
+{'task_id': 110, 'statement': 'Mars is often called the Red Planet.'}
+{'task_id': 111, 'statement': 'The chemical formula for table salt is NaCl.'}
+{'task_id': 112, 'statement': 'The heart is a muscle that pumps blood throughout the body.'}
+{'task_id': 113, 'statement': 'The Amazon River is the largest river by discharge volume of water.'}
+{'task_id': 114, 'statement': 'The platypus is native to Australia.'}
+{'task_id': 115, 'statement': 'The universe is approximately 13.8 billion years old.'}
+{'task_id': 116, 'statement': 'Dolphins sleep with one eye open.'}
+{'task_id': 117, 'statement': 'Spiders are arachnids, not insects.'}
+{'task_id': 118, 'statement': 'The human brain has two hemispheres: the left and the right.'}
+{'task_id': 119, 'statement': 'The capital city of Egypt is Cairo.'}
+{'task_id': 120, 'statement': 'Rainbows are formed by the dispersion of light.'}
+{'task_id': 121, 'statement': 'The moon orbits the Earth every 27.3 days.'}
+{'task_id': 122, 'statement': 'There are 88 constellations officially recognized by astronomers.'}
+{'task_id': 123, 'statement': 'The koala’s diet consists primarily of eucalyptus leaves.'}
+{'task_id': 124, 'statement': 'A person’s weight is determined by the force of gravity acting on their mass.'}
+{'task_id': 125, 'statement': 'Hydrogen is the most abundant element in the universe.'}
+{'task_id': 126, 'statement': 'The speed of light is constant in a vacuum.'}
+{'task_id': 127, 'statement': 'The tallest waterfall in the world is Angel Falls in Venezuela.'}
+{'task_id': 128, 'statement': 'The northernmost point on Earth is the North Pole.'}
+{'task_id': 129, 'statement': 'The Taj Mahal is located in Agra, India.'}
+{'task_id': 130, 'statement': 'The strongest muscle in the human body, relative to its size, is the masseter.'}
+{'task_id': 131, 'statement': 'Penguins can live in extreme cold climates.'}
+{'task_id': 132, 'statement': 'The human lungs are responsible for exchanging oxygen and carbon dioxide.'}
+{'task_id': 133, 'statement': 'The Dead Sea is one of the saltiest bodies of water in the world.'}
+{'task_id': 134, 'statement': 'The chemical symbol for iron is Fe.'}
+{'task_id': 135, 'statement': "The Amazon Rainforest produces about 20% of the world's oxygen."}
+{'task_id': 136, 'statement': 'The solar system is located in the Milky Way galaxy.'}
+{'task_id': 137, 'statement': 'Whales are the largest animals on Earth.'}
+{'task_id': 138, 'statement': 'Kangaroos use their tails for balance while hopping.'}
+{'task_id': 139, 'statement': 'The Atlantic Ocean is the second-largest ocean in the world.'}
+{'task_id': 140, 'statement': 'The planet Mercury has no atmosphere.'}
+{'task_id': 141, 'statement': 'The Chinese New Year is celebrated based on the lunar calendar.'}
+{'task_id': 142, 'statement': 'The primary diet of giant pandas consists of bamboo.'}
+{'task_id': 143, 'statement': 'Light travels in a straight line.'}
+{'task_id': 144, 'statement': 'Snakes are reptiles.'}
+{'task_id': 145, 'statement': 'The bones of the human hand consist of the carpals, metacarpals, and phalanges.'}
+{'task_id': 146, 'statement': 'The smallest unit of an element is an atom.'}
+{'task_id': 147, 'statement': 'Coral reefs are made up of tiny animals called polyps.'}
+{'task_id': 148, 'statement': 'A lunar eclipse occurs when the Earth passes between the sun and the moon.'}
+{'task_id': 149, 'statement': 'The atomic symbol for oxygen is O.'}
+{'task_id': 150, 'statement': 'The Nile River flows through Egypt.'}
+{'task_id': 151, 'statement': 'The first satellite launched into space was Sputnik 1.'}
+{'task_id': 152, 'statement': 'The Sahara Desert is located in northern Africa.'}
+{'task_id': 153, 'statement': 'The human stomach produces hydrochloric acid to aid digestion.'}
