@@ -1,4 +1,5 @@
 # NetSafe
+## Directory Description
 ``` bash
 ├── dataset						: direcotry for experiment datasets
 ├── README.md						: introduction
@@ -17,7 +18,7 @@
 ├── run_fact.py						: code for runing experiments on fact dataset
 └── run_gsm8k.py						: code for runing experiments on gsm8k dataset
 ```
-# Quick Start
+## Quick Start
 1. Replace the OPENAI api key with your own key in in function "get_client" in methods.py
 2. Set parameters in run.py
 3. Run run.py 
