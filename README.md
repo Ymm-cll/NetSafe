@@ -1,4 +1,5 @@
 # NetSafe
+``` bash
 ├── dataset						: direcotry for experiment datasets
 ├── README.md						: introduction
 ├── calculate_sim.py						: code for calculating kendall's tau
@@ -15,7 +16,7 @@
 ├── run_csqa.py						: code for runing experiments on csqa dataset
 ├── run_fact.py						: code for runing experiments on fact dataset
 └── run_gsm8k.py						: code for runing experiments on gsm8k dataset
-
+```
 # Quick Start
 1. Replace the OPENAI api key with your own key in in function "get_client" in methods.py
 2. Set parameters in run.py
